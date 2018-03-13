@@ -1,0 +1,14 @@
+/*
+Author: Thiago Baptistella
+Date: 30/11/2017
+Version: 1.0.0
+Obs: Bouncing Ball test, attached (HTML+CSS+JS).
+*/
+body {
+  margin: 0px;
+  background-image: url("quadra.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+
+}
